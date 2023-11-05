@@ -1,0 +1,9 @@
+.images__container{
+    width: 1184px;
+    height: 442px;
+    flex-shrink: 0;
+    margin: 92px 48px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
