@@ -1,0 +1,15 @@
+.kiev__container{
+    width: 984px;
+    height: 756px;
+    flex-shrink: 0;
+    position: relative;
+    left: 148px;
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-template-rows: 152px 460px 48px;
+    grid-gap: 48px 40px;
+    grid-template-areas: 
+    "kiev1 kiev2"
+    "kiev3 kiev4"
+    "kiev5 ."
+}

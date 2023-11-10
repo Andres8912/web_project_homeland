@@ -1,0 +1,16 @@
+.berea__container{
+    width: 984px;
+    height: 725px;
+    flex-shrink: 0;
+    position: relative;
+    left: 148px;
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-template-rows: 152px 460px 48px;
+    grid-gap: 48px 40px;
+    grid-template-areas: 
+    "berea1 berea2"
+    "berea3 berea4"
+    "berea5 ."
+}

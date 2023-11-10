@@ -1,0 +1,10 @@
+.berea__container__author{
+    width: 456px;
+    flex-shrink: 0;
+    grid-area: berea2;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 107px;
+}

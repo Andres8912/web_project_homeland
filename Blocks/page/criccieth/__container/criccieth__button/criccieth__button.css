@@ -1,0 +1,19 @@
+.criccieth__button{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 600;
+    line-height: normal;
+grid-area: cric5;
+border-radius: 4px;
+background: #0278FE;
+display: inline-flex;
+padding: 13px 20px;
+align-items: flex-start;
+gap: 10px;
+justify-content: center;
+    top: 708px;
+    width: 355px;
+}

@@ -1,0 +1,6 @@
+.kiev__container__img{
+width: 460px;
+height: 460px;
+flex-shrink: 0;
+grid-area: kiev3;
+}

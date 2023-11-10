@@ -1,0 +1,17 @@
+.bogota__container{
+    width: 984px;
+    height: 756px;
+    flex-shrink: 0;
+    position: relative;
+    left: 145px;
+    margin: 0;
+    padding-top: 51px;
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-template-rows: 152px 460px 48px;
+    grid-gap: 48px 40px;
+    grid-template-areas: 
+    "bog1 bog2"
+    "bog3 bog4"
+    "bog5 ."
+}
