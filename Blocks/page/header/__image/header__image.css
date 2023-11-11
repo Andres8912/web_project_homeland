@@ -1,5 +1,9 @@
 .header__image{
+<<<<<<< HEAD
 width: 984px;
+=======
+    width: 984px;
+>>>>>>> ac89759bc98d140f446620883abafdebe9535671
 height: 615px;
 flex-shrink: 0;
 position: relative;
