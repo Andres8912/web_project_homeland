@@ -16,3 +16,13 @@
         }
         
     }
+
+    @media (max-width: 320px) {
+        .place__website-bog {
+            width: 288px;
+            height: 45px;
+            top: 0;
+            padding: 30px 16px;
+        }
+        
+    }

@@ -7,3 +7,11 @@ height: 254px;
 z-index: 2;
 align-items: center;
 }
+
+
+@media (max-width: 320px) {
+    .cover__group {
+    width: 288px;
+    height: 163px;
+    }
+    }

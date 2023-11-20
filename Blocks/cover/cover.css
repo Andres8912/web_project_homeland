@@ -23,4 +23,16 @@ grid-template-rows: 246px 254px 246px;
 position: relative;
 top: 568px;
 }
-            }
+}
+
+
+@media (max-width: 320px) {
+.cover {
+width: 320px;
+height: 254px;
+grid-template-columns: 16px 288px 16px;
+grid-template-rows: 46px 163px 45px;
+position: relative;
+top: 704px;
+}
+}

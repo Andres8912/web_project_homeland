@@ -20,3 +20,15 @@
         }
         
     }
+
+    @media (max-width: 320px) {
+        .place__paragraph-b {
+        width: 288px;
+        height: 234px;
+        position: relative;
+        left: 16px;
+        top: 8px;
+        padding: 0;
+        }
+        
+    }

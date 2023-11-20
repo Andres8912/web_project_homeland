@@ -23,3 +23,14 @@ top: 242px;
     }
     
 }
+
+@media (max-width: 320px) {
+    .place__paragraph-bog {
+    width: 288px;
+    height: 234px;
+    position: relative;
+    left: 16px;
+    top: 8px;
+    }
+    
+}

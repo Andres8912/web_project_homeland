@@ -10,3 +10,14 @@ line-height: 22px;
 margin: 0;
 padding-bottom: 32px;
 }
+
+
+@media (max-width: 320px) {
+    .group__subtitle {
+    width: 280px;
+    height: 48px;
+    font-size: 14px;
+    line-height: 16px ;
+    padding-bottom: 16px;
+    }
+    }
