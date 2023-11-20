@@ -1,0 +1,27 @@
+.place__website-cri{
+width: 456px;
+grid-area: item2;
+height: 67px;
+display: flex;
+flex-direction: column;
+position: relative;
+top: 85px;
+}
+
+@media (max-width: 768px) {
+    .place__website-cri {
+    width: 352px;
+    height: 89px;
+    top: 0;
+    }
+    
+}
+
+@media (max-width: 320px) {
+    .place__website-cri {
+        width: 288px;
+        height: 81px;
+        padding: 30px 16px;
+    }
+    
+}

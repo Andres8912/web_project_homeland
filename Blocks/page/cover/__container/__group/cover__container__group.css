@@ -1,9 +1,0 @@
-.cover__container__group{
-grid-area: gp;
-flex-direction: column;
-display: flex;
-width: 656px;
-height: 254px;
-z-index: 2;
-align-items: center;
-}

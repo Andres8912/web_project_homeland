@@ -1,0 +1,40 @@
+.place-mur{
+    width: 984px;
+    height: 859px;
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-template-rows: 152px 460px 48px;
+    grid-gap: 48px 40px;
+    margin: 0;
+    padding-bottom: 51px;
+    grid-template-areas: 
+    "item1 item2"
+    "item3 item4"
+    "item5 ."
+}
+
+
+@media (max-width: 768px) {
+    .place-mur {
+   width: 720px;
+   height: 845px;
+   grid-template-columns: 340px 352px;
+   grid-template-rows: 92px 340px 48px; 
+   grid-gap: 29px 28px;
+   position: relative;
+   top: 180px;
+}
+    }
+    
+
+@media (max-width: 320px) {
+    .place-mur {
+    width: 320px;
+    height: 1433px;
+    display: flex;
+    flex-direction: column;
+    grid-gap: inherit;
+    top: 73px;
+    }
+        
+    }

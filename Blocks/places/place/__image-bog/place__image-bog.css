@@ -1,0 +1,14 @@
+.place__image-bog{
+width: 460px;
+height: 460px;
+grid-area: item3;
+        }
+        
+@media (max-width: 768px) {
+.place__image-bog {
+width: 340px;
+height: 340px;
+padding-top: 24px;
+}
+            
+}

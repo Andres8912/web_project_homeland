@@ -1,0 +1,45 @@
+.action-button-berea{
+color: #FFF;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+text-decoration: none;
+font-weight: 600;
+line-height: normal;
+grid-area: item5;
+border-radius: 4px;
+background: #0278FE;
+display: inline-flex;
+padding: 13px 20px;
+align-items: flex-start;
+gap: 10px;
+justify-content: center;
+width: 355px;
+margin: 0;
+position: relative;
+top: 31px;
+}
+
+
+@media (max-width: 768px) {
+    .action-button-berea {
+   position: relative;
+   top: 0px;
+   width: 315px;
+    }
+    
+}
+
+
+@media (max-width: 320px) {
+    .action-button-berea {
+   position: relative;
+   width: 245px;
+   height: 17px;
+   font-size: 14px;
+   padding: 16px 22px 15px 21px;
+   left: 16px;
+   top: 6px;
+    }
+    
+}

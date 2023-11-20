@@ -1,0 +1,23 @@
+.footer__copyright{
+color: #FFF;
+text-align: right;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+width: 191px;
+margin: 0;
+left: 531px;
+position: relative;
+top: 92px;
+text-align: center;
+}
+
+@media (max-width: 768px) {
+    .footer__copyright {
+    left: 275px;
+    top: 7358px;
+    position: absolute;
+    }
+}

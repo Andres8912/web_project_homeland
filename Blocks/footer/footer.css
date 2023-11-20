@@ -1,0 +1,15 @@
+.footer{
+width: 1280;
+height: 132px;
+max-width: 1280px;
+background-color: #2A2C2F;
+font-family: inter;
+margin: 0;
+}
+
+@media (max-width: 768px) {
+    .footer {
+    width: 768px;
+    height: 128px;
+    }
+}

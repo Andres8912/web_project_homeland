@@ -1,37 +1,25 @@
-<<<<<<< HEAD
-@keyframes resize{
-to{
-    height:750px
-
-}
-
-}
-
-=======
->>>>>>> ac89759bc98d140f446620883abafdebe9535671
 .page{
-    max-width: 1280px;
-    background-color: #2A2C2F;
-    font-family: inter;
-    margin: 0;
-<<<<<<< HEAD
+max-width: 1280px;
+height: 7473px;
+background: #2A2C2F;
+font-family: inter;
 }
 
 
-@media screen and  (max-width: 768px) {
-    .header{
-        width: 768px;
+@media (max-width: 768px) {
+    .page {
+        width: 100%;
+        height: 7382px;
+        background-color: limegreen;
     }
     
-    .header__title{
-        width: 720px;
-        left: 24px;
-         }
+}
 
-
-    .header__logo{
-        left: 249px;
-        }
-=======
->>>>>>> ac89759bc98d140f446620883abafdebe9535671
+@media (max-width: 320px) {
+    .page {
+        width: 100%;
+        height: 9626px;
+        background-color: rgb(35, 162, 226);
+    }
+    
 }

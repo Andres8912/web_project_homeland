@@ -1,0 +1,40 @@
+.place-berea{
+    margin: 0;
+    padding-bottom: 93px;
+    width: 984px;
+    height: 725px;
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-template-rows: 152px 460px 48px;
+    grid-gap: 17px 40px;
+    grid-template-areas: 
+    "item1 item2"
+    "item3 item4"
+    "item5 ."
+    }
+
+    @media (max-width: 768px) {
+    .place-berea {
+    width: 720px;
+    height: 634px;
+    grid-template-columns: 340px 352px;
+    grid-template-rows: 69px 364px 48px;
+    grid-gap: 24px 28px;
+    position: relative;
+    top: 152px;
+        }
+        
+    }
+
+    @media (max-width: 320px) {
+        .place-berea {
+            width: 320px;
+            height: 1186px;
+            display: flex;
+            flex-direction: column;
+            grid-gap: inherit;
+            top: 51px;
+            padding: 0;
+        }
+        
+    }
