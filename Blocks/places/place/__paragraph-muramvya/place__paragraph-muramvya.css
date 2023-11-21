@@ -20,17 +20,15 @@ height: 260px;
 font-size: 16px;
 top: 464px;
 }
-
 }
 
 
 @media (max-width: 320px) {
-    .place__paragraph-muramvya {
-    width: 288px;
-    height: 312px;
-    position: relative;
-    left: 16px;
-    top: 80px;
-    }
-    
+.place__paragraph-muramvya {
+width: 288px;
+height: 312px;
+position: relative;
+left: 16px;
+top: 80px;
+}    
 }

@@ -1,34 +1,32 @@
 .place{
-    width: 984px;
-    height: 756px;
-    display: grid;
-    grid-template-columns: 460px 484px;
-    grid-template-rows: 152px 460px 48px;
-    grid-gap: 48px 40px;
-    grid-template-areas: 
-    "item1 item2"
-    "item3 item4"
-    "item5 ."
+width: 984px;
+height: 756px;
+display: grid;
+grid-template-columns: 460px 484px;
+grid-template-rows: 152px 460px 48px;
+grid-gap: 48px 40px;
+grid-template-areas: 
+"item1 item2"
+"item3 item4"
+"item5 .";
  }
 
  @media (max-width: 768px) {
-    .place {
-        width: 720px;
-        height: 600px;
-        grid-template-columns: 340px 352px;
-        grid-template-rows: 67px 340px 48px;
-        grid-gap: 24px 28px;
-    }
-    
+.place {
+width: 720px;
+height: 600px;
+grid-template-columns: 340px 352px;
+grid-template-rows: 67px 340px 48px;
+grid-gap: 24px 28px;
+}    
 }
 
 @media (max-width: 320px) {
-    .place {
-        width: 320px;
-        height: 1169px;
-        display: flex;
-        flex-direction: column;
-        grid-gap: inherit;
-    }
-    
+.place {
+width: 320px;
+height: 1169px;
+display: flex;
+flex-direction: column;
+grid-gap: inherit;
+}    
 }

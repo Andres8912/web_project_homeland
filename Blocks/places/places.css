@@ -11,22 +11,20 @@ align-items: center;
 }
 
 @media (max-width: 768px) {
-    .places {
-        width: 720px;
-        height: 3454px;
-        left: 24px;
-        top: 128px;
-    }
-    
+.places {
+width: 720px;
+height: 3454px;
+left: 24px;
+top: 128px;
+}    
 }
 
 @media (max-width: 320px) {
-    .places {
-        width: 320px;
-        height: 5623px;
-        left: 0;
-        top: 90px;
-        padding-top: 24px;
-    }
-    
+.places {
+width: 320px;
+height: 5623px;
+left: 0;
+top: 90px;
+padding-top: 24px;
+}    
 }

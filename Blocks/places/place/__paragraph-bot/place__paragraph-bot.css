@@ -14,21 +14,19 @@ top: 228px;
 }
 
 @media (max-width: 768px) {
-    .place__paragraph-bot {
-    width: 352px;
-    height: 260px;
-    top: 248px;
-    font-size: 16px;    
-    }
-    
+.place__paragraph-bot {
+width: 352px;
+height: 260px;
+top: 248px;
+font-size: 16px;    
+}    
 }
 
 @media (max-width: 320px) {
-    .place__paragraph-bot {
-    width: 288px;
-    height: 338px;
-    top: 7px; 
-    left: 16px;  
-    }
-    
+.place__paragraph-bot {
+width: 288px;
+height: 338px;
+top: 7px; 
+left: 16px;  
+}    
 }

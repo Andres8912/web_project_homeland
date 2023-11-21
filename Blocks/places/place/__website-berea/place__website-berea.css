@@ -9,20 +9,18 @@ top: 76px;
 }
 
 @media (max-width: 768px) {
-    .place__website-berea {
-    width: 352px;
-    height: 45px;
-    top: 0;
-        }
-        
-    }
+.place__website-berea {
+width: 352px;
+height: 45px;
+top: 0;
+}        
+}
 
 
 @media (max-width: 320px) {
-    .place__website-berea {
-        width: 288px;
-        height: 37px;
-        padding: 30px 16px;
-    }
-    
+.place__website-berea {
+width: 288px;
+height: 37px;
+padding: 30px 16px;
+}    
 }

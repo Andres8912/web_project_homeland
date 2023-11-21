@@ -11,32 +11,30 @@ grid-gap: 48px 40px;
 grid-template-areas: 
 "item1 item2"
 "item3 item4"
-"item5 ."
+"item5 .";
 }
 
 @media (max-width: 768px) {
-    .place-criccieth {
-    width: 720px;
-    height: 632px;
-    grid-template-columns: 340px 352px;
-    grid-template-rows: 89px 340px 48px;
-    grid-gap: 24px 28px;
-    position: relative;
-    top: 40px;
-    }
-    
+.place-criccieth {
+width: 720px;
+height: 632px;
+grid-template-columns: 340px 352px;
+grid-template-rows: 89px 340px 48px;
+grid-gap: 24px 28px;
+position: relative;
+top: 40px;
+}    
 }
 
 
 @media (max-width: 320px) {
-    .place-criccieth {
-        width: 320px;
-        height: 1209px;
-        display: flex;
-        flex-direction: column;
-        grid-gap: inherit;
-        padding: 0;
-        top: 16px;
-    }
-    
+.place-criccieth {
+width: 320px;
+height: 1209px;
+display: flex;
+flex-direction: column;
+grid-gap: inherit;
+padding: 0;
+top: 16px;
+}    
 }

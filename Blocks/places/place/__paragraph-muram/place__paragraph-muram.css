@@ -19,18 +19,16 @@ width: 352px;
 height: 234px;
 font-size: 16px;
 top: 219px;
-}
-        
+}        
 }
 
 
 @media (max-width: 320px) {
-    .place__paragraph-muram {
-    width: 288px;
-    height: 260px;
-    position: relative;
-    left: 16px;
-    top: 70px;
-    }
-    
+.place__paragraph-muram {
+width: 288px;
+height: 260px;
+position: relative;
+left: 16px;
+top: 70px;
+}    
 }

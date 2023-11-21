@@ -10,18 +10,17 @@ margin: 0;
 }
 
 @media (max-width: 768px) {
-    .website__artist-cric {
-        width: 352px;
-        height: 44px;
-    }
+.website__artist-cric {
+width: 352px;
+height: 44px;
+}
 }
 
 
 
 @media (max-width: 320px) {
-    .website__artist-cric {
-        width: 288px;
-        height: 44px;
-    }
-    
+.website__artist-cric {
+width: 288px;
+height: 44px;
+}    
 }

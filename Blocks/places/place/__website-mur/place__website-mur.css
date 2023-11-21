@@ -19,10 +19,9 @@ top: 0;
 
 
 @media (max-width: 320px) {
-    .place__website-mur {
-    width: 288px;
-    height: 67px;
-    padding: 30px 16px 8px 16px;
-    }
-    
+.place__website-mur {
+width: 288px;
+height: 67px;
+padding: 30px 16px 8px 16px;
+}    
 }
