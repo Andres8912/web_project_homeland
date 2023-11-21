@@ -1,4 +1,4 @@
-.place__paragraph-cri{
+.place__paragraph--cri{
 color: #FFF;
 width: 484px;
 height: 174px;
@@ -12,7 +12,7 @@ margin: 0;
 }
 
 @media (max-width: 768px) {
-.place__paragraph-cri{
+.place__paragraph--cri{
 width: 352px;
 height: 208px;
 font-size: 16px;
@@ -20,7 +20,7 @@ font-size: 16px;
 }
 
 @media (max-width: 320px) {
-.place__paragraph-cri {
+.place__paragraph--cri {
 width: 288px;
 height: 260px;
 position: relative;

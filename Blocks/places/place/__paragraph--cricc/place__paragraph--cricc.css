@@ -1,4 +1,4 @@
-.place__paragraph-cricc{
+.place__paragraph--cricc{
 color: #FFF;
 width: 484px;
 height: 261px;
@@ -14,7 +14,7 @@ top: 230px;
 }
 
 @media (max-width: 768px) {
-.place__paragraph-cricc {
+.place__paragraph--cricc {
 width: 352px;
 height: 286px;
 font-size: 16px;
@@ -22,7 +22,7 @@ font-size: 16px;
 }
 
 @media (max-width: 320px) {
-.place__paragraph-cricc {
+.place__paragraph--cricc {
 width: 288px;
 height: 364px;
 position: relative;
