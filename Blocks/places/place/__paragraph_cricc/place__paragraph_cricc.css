@@ -1,7 +1,7 @@
-.place__paragraph--cri{
+.place__paragraph_cricc{
 color: #FFF;
 width: 484px;
-height: 174px;
+height: 261px;
 font-family: Inter;
 font-size: 18px;
 font-style: normal;
@@ -9,20 +9,22 @@ font-weight: 400;
 line-height: 163%;
 grid-area: item4;
 margin: 0;
+position: relative;
+top: 230px;
 }
 
 @media (max-width: 768px) {
-.place__paragraph--cri{
+.place__paragraph_cricc {
 width: 352px;
-height: 208px;
+height: 286px;
 font-size: 16px;
 }    
 }
 
 @media (max-width: 320px) {
-.place__paragraph--cri {
+.place__paragraph_cricc {
 width: 288px;
-height: 260px;
+height: 364px;
 position: relative;
 left: 16px;
 top: 10px;
