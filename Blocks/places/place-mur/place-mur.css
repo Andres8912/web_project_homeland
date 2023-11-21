@@ -38,7 +38,7 @@ width: 315px;
 width: 720px;
 height: 845px;
 grid-template-columns: 340px 352px;
-grid-template-rows: 92px 340px 48px; 
+grid-template-rows: 92px 340px 48px;
 grid-gap: 29px 28px;
 position: relative;
 top: 180px;
