@@ -19,23 +19,22 @@ width: 315px;
 
 
 @media (max-width: 768px) {
-    .action-button {
-   position: relative;
-   top: 24px;
-    }
+.action-button {
+position: relative;
+top: 24px;
+}
 }
 
 @media (max-width: 320px) {
-   .action-button {
-   position: relative;
-   width: 245px;
-   height: 17px;
-   font-size: 14px;
-   padding: 16px 22px 15px 21px;
-   left: 16px;
-   top: 8px;
-    }
-    
+.action-button {
+position: relative;
+width: 245px;
+height: 17px;
+font-size: 14px;
+padding: 16px 22px 15px 21px;
+left: 16px;
+top: 8px;
+}   
 }
 
 

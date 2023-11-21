@@ -13,11 +13,11 @@ padding-bottom: 32px;
 
 
 @media (max-width: 320px) {
-    .group__title {
-    width: 288px;
-    height: 35px;
-    font-size: 32px;
-    line-height: 35px;
-    padding-bottom: 16px;
-    }
-    }
+.group__title {
+width: 288px;
+height: 35px;
+font-size: 32px;
+line-height: 35px;
+padding-bottom: 16px;
+}
+}
