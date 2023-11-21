@@ -9,8 +9,7 @@ font-family: inter;
 @media (max-width: 768px) {
     .page {
         width: 100%;
-        height: 7382px;
-        background-color: limegreen;
+        height: 7546px;
     }
     
 }
@@ -18,8 +17,7 @@ font-family: inter;
 @media (max-width: 320px) {
     .page {
         width: 100%;
-        height: 9626px;
-        background-color: rgb(35, 162, 226);
+        height: 10126px;
     }
     
 }

@@ -18,8 +18,6 @@ width: 315px;
 }
 
 
-
-
 @media (max-width: 768px) {
     .action-button {
    position: relative;

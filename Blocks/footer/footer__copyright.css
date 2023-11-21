@@ -17,7 +17,16 @@ text-align: center;
 @media (max-width: 768px) {
     .footer__copyright {
     left: 275px;
-    top: 7358px;
+    top: 7508px;
+    position: absolute;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .footer__copyright {
+    left: 68px;
+    top: 10088px;
     position: absolute;
     }
 }
