@@ -1,4 +1,4 @@
-.website__artist_cric{
+.place__artist{
 color: #FFF;
 width: 456px;
 font-family: Inter;
@@ -10,16 +10,14 @@ margin: 0;
 }
 
 @media (max-width: 768px) {
-.website__artist_cric {
-width: 352px;
+.place__artist {
+width: 295px;
 height: 44px;
+}    
 }
-}
-
-
 
 @media (max-width: 320px) {
-.website__artist_cric {
+.place__artist {
 width: 288px;
 height: 44px;
 }    

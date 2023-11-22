@@ -16,8 +16,8 @@
 @import url(./Blocks/places/place/place.css);
 @import url(./Blocks/places/place/__title/place__title.css);
 @import url(./Blocks/places/place/__website/place__website.css);
-@import url(./Blocks/places/place/__website/__url_heading/website__url_heading.css);
-@import url(./Blocks/places/place/__website/__artist/website__artist.css);
+@import url(./Blocks/places/place/__website/__url_heading/place__url_heading.css);
+@import url(./Blocks/places/place/__website/__artist/place__artist.css);
 @import url(./Blocks/places/place/__image/place__image.css);
 @import url(./Blocks/places/place/__paragraph/place__paragraph.css);
 @import url(./Blocks/places/place/__paragraph-bot/place__paragraph-bot.css);
@@ -26,8 +26,8 @@
 @import url(./Blocks/places/place-criccieth/place-criccieth.css);
 @import url(./Blocks/places/place/__title_cri/place__title_cri.css);
 @import url(./Blocks/places/place/__website_cri/place__website_cri.css);
-@import url(./Blocks/places/place/__website_cri/__artist_cri/website__artist_cri.css);
-@import url(./Blocks/places/place/__website_cri/__artist_cric/website__artist_cric.css);
+@import url(./Blocks/places/place/__website_cri/__artist_cri/place__artist_cri.css);
+@import url(./Blocks/places/place/__website_cri/__artist_cric/place__artist_cric.css);
 @import url(./Blocks/places/place/__paragraph_cri/place__paragraph_cri.css);
 @import url(./Blocks/places/place/__paragraph_cricc/place__paragraph_cricc.css);
 @import url(./Blocks/places/place-berea/place-berea.css);

@@ -1,4 +1,4 @@
-.website__url_heading{
+.place__url_heading{
 color: #AAA;
 font-family: Inter;
 font-size: 12px;
@@ -16,7 +16,7 @@ padding-bottom: 8px;
 
 
 @media (max-width: 320px) {
-.website__url_heading {
+.place__url_heading {
 width: 288px;
 height: 15px;
 }    
