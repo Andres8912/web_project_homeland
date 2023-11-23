@@ -19,38 +19,14 @@
 @import url(./Blocks/places/place/__website/__url_heading/place__url_heading.css);
 @import url(./Blocks/places/place/__website/__artist/place__artist.css);
 @import url(./Blocks/places/place/__image/place__image.css);
+@import url(./Blocks/places/place/__paragraphs/place__paragraphs.css);
 @import url(./Blocks/places/place/__paragraph/place__paragraph.css);
-@import url(./Blocks/places/place/__paragraph_bot/place__paragraph_bot.css);
 @import url(./Blocks/action-button/action-button.css);
 @import url(./Blocks/action-button/action-button:hover.css);
 @import url(./Blocks/places/place-criccieth/place-criccieth.css);
-@import url(./Blocks/places/place/__title_cri/place__title_cri.css);
-@import url(./Blocks/places/place/__website_cri/place__website_cri.css);
-@import url(./Blocks/places/place/__website_cri/__artist_cri/website__artist_cri.css);
-@import url(./Blocks/places/place/__website_cri/__artist_cric/website__artist_cric.css);
-@import url(./Blocks/places/place/__paragraph_cri/place__paragraph_cri.css);
-@import url(./Blocks/places/place/__paragraph_cricc/place__paragraph_cricc.css);
 @import url(./Blocks/places/place-berea/place-berea.css);
-@import url(./Blocks/places/place/__title-berea/place__title-berea.css);
-@import url(./Blocks/places/place/__title-berea/place__title-berea.css);
-@import url(./Blocks/places/place/__website-berea/place__website-berea.css);
-@import url(./Blocks/places/place/__website-berea/__artist-ber/website__artist-ber.css);
-@import url(./Blocks/places/place/__paragraph-ber/place__paragraph-ber.css);
-@import url(./Blocks/places/place/__paragraph_berea/place__paragraph_berea.css);
 @import url(./Blocks/places/place-mur/place-mur.css);
-@import url(./Blocks/places/place/__title-mur/place__title-mur.css);
-@import url(./Blocks/places/place/__website-mur/place__website-mur.css);
-@import url(./Blocks/places/place/__website-mur/__artist-mur/website__artist-mur.css);
-@import url(./Blocks/places/place/__paragraph-mur/place__paragraph-mur.css);
-@import url(./Blocks/places/place/__paragraph_muram/place__paragraph_muram.css);
-@import url(./Blocks/places/place/__paragraph_muramvya/place__paragraph_muramvya.css);
 @import url(./Blocks/places/place-bog/place-bog.css);
-@import url(./Blocks/places/place/__title-bog/place__title-bog.css);
-@import url(./Blocks/places/place/__website-bog/place__website-bog.css);
-@import url(./Blocks/places/place/__website-bog/__artist-bog/website__artist-bog.css);
-@import url(./Blocks/places/place/__image-bog/place__image-bog.css);
-@import url(./Blocks/places/place/__paragraph-b/place__paragraph-b.css);
-@import url(./Blocks/places/place/__paragraph_bog/place__paragraph_bog.css);
 @import url(./Blocks/cover/cover.css);
 @import url(./Blocks/cover/__background/cover__background.css);
 @import url(./Blocks/cover/__background/cover__background:hover.css);
@@ -61,6 +37,3 @@
 @import url(./Blocks/cover/__group/-button/group-button:hover.css);
 @import url(./Blocks/footer/footer.css);
 @import url(./Blocks/footer/footer__copyright.css);
-
-
-

@@ -19,8 +19,6 @@ width: 720px;
 grid-template-columns: 340px 352px;
 grid-template-rows: 89px 340px 48px;
 grid-gap: 24px 28px;
-position: relative;
-top: 40px;
 }    
 }
 
@@ -32,6 +30,5 @@ display: flex;
 flex-direction: column;
 grid-gap: inherit;
 padding: 0;
-top: 16px;
 }    
 }

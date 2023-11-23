@@ -1,8 +1,7 @@
 .intro{
 width: 1017px;
-position: relative;
-left: 148px;
-top: 184px;
+padding-top: 148px;
+margin: auto;
 }
 
 @media (max-width: 768px) {

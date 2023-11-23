@@ -1,8 +1,7 @@
 .page__logo{
 width: 270px;
-top: 34px;
-left: 505px;
-position: relative;
+padding-top: 34px;
+margin: auto;
 }
 
 

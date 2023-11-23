@@ -8,8 +8,6 @@ font-style: normal;
 font-weight: 400;
 line-height: 34px;
 margin: 0;
-position: absolute;
-top: 268px;
 }
 
 @media (max-width: 768px) {

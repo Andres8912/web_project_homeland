@@ -29,8 +29,7 @@ align-items: flex-start;
 gap: 10px;
 justify-content: center;
 width: 315px;
-position: relative;
-top: 28px;   
+  
 }
 
 @media (max-width: 768px) {
@@ -39,8 +38,6 @@ width: 720px;
 grid-template-columns: 340px 352px;
 grid-template-rows: 69px 364px 48px;
 grid-gap: 24px 28px;
-position: relative;
-top: 152px;
 }
     
 #button3{
@@ -55,7 +52,6 @@ width: 320px;
 display: flex;
 flex-direction: column;
 grid-gap: inherit;
-top: 51px;
 padding: 0;
 }
 

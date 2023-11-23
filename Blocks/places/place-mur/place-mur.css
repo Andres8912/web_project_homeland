@@ -38,8 +38,6 @@ width: 720px;
 grid-template-columns: 340px 352px;
 grid-template-rows: 92px 340px 48px;
 grid-gap: 29px 28px;
-position: relative;
-top: 180px;
 }
   
 #button4{
@@ -55,7 +53,6 @@ width: 320px;
 display: flex;
 flex-direction: column;
 grid-gap: inherit;
-top: 73px;
 }
 
 #button4{

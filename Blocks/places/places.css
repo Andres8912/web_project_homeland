@@ -1,9 +1,6 @@
 .places{
 width: 987px;
-position: relative;
-left: 145px;
-top: 184px;
-margin: 0;
+margin: auto;
 display: flex;
 flex-direction: column;
 align-items: center;

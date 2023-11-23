@@ -2,11 +2,11 @@
 width: 984px;
 display: flex;
 flex-direction: column;
-position: relative;
-left: 148px;
-top: 90px;
 align-items: center;
+padding-top: 90px;
+margin: auto;
 }
+
 
 
 @media (max-width: 768px) {
