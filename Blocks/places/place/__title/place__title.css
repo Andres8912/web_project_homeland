@@ -7,14 +7,12 @@ font-weight: 900;
 line-height: 76px;
 width: 460px;
 grid-area: item1;
-height: 152px;
 margin: 0;
 }
 
 @media (max-width: 768px) {
 .place__title {
 width: 340px;
-height: 46px;
 font-size: 42px;
 line-height: 46px;
 }    
@@ -23,7 +21,6 @@ line-height: 46px;
 @media (max-width: 320px) {
 .place__title {
 width: 288px;
-height: 35px;
 font-size: 32px;
 line-height: 35px;
 position: relative;

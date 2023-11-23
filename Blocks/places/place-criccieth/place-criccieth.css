@@ -3,7 +3,6 @@ margin: 0;
 padding-bottom: 35px;
 padding-top: 80px;
 width: 984px;
-height: 756px;
 display: grid;
 grid-template-columns: 460px 484px;
 grid-template-rows: 152px 460px 48px;
@@ -17,7 +16,6 @@ grid-template-areas:
 @media (max-width: 768px) {
 .place-criccieth {
 width: 720px;
-height: 632px;
 grid-template-columns: 340px 352px;
 grid-template-rows: 89px 340px 48px;
 grid-gap: 24px 28px;
@@ -30,7 +28,6 @@ top: 40px;
 @media (max-width: 320px) {
 .place-criccieth {
 width: 320px;
-height: 1209px;
 display: flex;
 flex-direction: column;
 grid-gap: inherit;

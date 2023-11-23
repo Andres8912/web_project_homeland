@@ -1,6 +1,5 @@
 .page__logo{
 width: 270px;
-height: 70px;
 top: 34px;
 left: 505px;
 position: relative;
@@ -16,7 +15,6 @@ left: 249px;
 @media (max-width: 320px) {
 .page__logo {
 width: 200px;
-height: 51.852px;
 top: 20px;
 left: 60px;
 }    

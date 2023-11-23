@@ -1,20 +1,17 @@
 .cover__background{
 z-index: 0;
 width: 1184px;
-height: 740px;
 background: #2A2C2F;
 }
 
 @media (max-width: 768px) {
 .cover__background {
 width: 768px;
-height: 746px;
 }                
 }
 
 @media (max-width: 320px) {
 .cover__background {
 width: 320px;
-height: 254px;
 }
 }

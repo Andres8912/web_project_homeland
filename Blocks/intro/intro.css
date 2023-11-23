@@ -1,6 +1,5 @@
 .intro{
 width: 1017px;
-height: 516px;
 position: relative;
 left: 148px;
 top: 184px;
@@ -9,7 +8,6 @@ top: 184px;
 @media (max-width: 768px) {
 .intro {
 width: 720px;
-height: 607px;
 left: 24px;
 top: 144px;
 }    
@@ -18,7 +16,6 @@ top: 144px;
 @media (max-width: 320px) {
 .intro {
 width: 288px;
-height: 958px;
 left: 16px;
 top: 94px;
 }    

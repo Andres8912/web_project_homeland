@@ -1,7 +1,6 @@
-.place__paragraph-berea{
+.place__paragraph_bot{
 color: #FFF;
 width: 484px;
-height: 203px;
 font-family: Inter;
 font-size: 18px;
 font-style: normal;
@@ -10,24 +9,21 @@ line-height: 163%;
 grid-area: item4;
 margin: 0;
 position: relative;
-top: 307px;
+top: 228px;
 }
 
 @media (max-width: 768px) {
-.place__paragraph-berea {
+.place__paragraph_bot {
 width: 352px;
-height: 208px;
-font-size: 16px;
-padding-top: 20px;
-}        
+top: 248px;
+font-size: 16px;    
+}    
 }
 
 @media (max-width: 320px) {
-.place__paragraph-berea {
+.place__paragraph_bot {
 width: 288px;
-height: 260px;
-left: 16px;
-top: 8px;
-padding: 0;
-}
+top: 7px;
+left: 16px;  
+}    
 }

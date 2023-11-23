@@ -1,6 +1,5 @@
 .place-mur{
 width: 984px;
-height: 859px;
 display: grid;
 grid-template-columns: 460px 484px;
 grid-template-rows: 152px 460px 48px;
@@ -36,7 +35,6 @@ width: 315px;
 @media (max-width: 768px) {
 .place-mur {
 width: 720px;
-height: 845px;
 grid-template-columns: 340px 352px;
 grid-template-rows: 92px 340px 48px;
 grid-gap: 29px 28px;
@@ -54,7 +52,6 @@ top: 24px;
 @media (max-width: 320px) {
 .place-mur {
 width: 320px;
-height: 1433px;
 display: flex;
 flex-direction: column;
 grid-gap: inherit;
@@ -63,7 +60,6 @@ top: 73px;
 
 #button4{
 width: 245px;
-height: 17px;
 font-size: 14px;
 padding: 16px 22px 15px 21px;
 left: 16px;

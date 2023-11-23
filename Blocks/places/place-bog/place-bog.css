@@ -1,6 +1,5 @@
 .place-bog{
 width: 984px;
-height: 756px;
 display: grid;
 grid-template-columns: 460px 484px;
 grid-template-rows: 152px 460px 48px;
@@ -35,7 +34,6 @@ width: 315px;
 @media (max-width: 768px) {
 .place-bog {
 width: 720px;
-height: 530px;
 grid-template-columns: 340px 352px;
 grid-template-rows: 46px 364px 48px;
 grid-gap: 24px 28px;
@@ -53,7 +51,6 @@ top: 24px;
 @media (max-width: 320px) {
 .place-bog {
 width: 320px;
-height: 626px;
 display: flex;
 flex-direction: column;
 grid-gap: inherit;
@@ -63,7 +60,6 @@ padding: 0;
    
 #button5{
 width: 245px;
-height: 17px;
 font-size: 14px;
 padding: 16px 22px 15px 21px;
 left: 16px;
