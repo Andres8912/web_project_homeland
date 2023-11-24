@@ -26,5 +26,6 @@ display: flex;
 flex-direction: column;
 grid-gap: inherit;
 align-items: center;
+padding-bottom: 25px;
 }    
 }
