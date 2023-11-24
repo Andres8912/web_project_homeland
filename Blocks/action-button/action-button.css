@@ -6,7 +6,7 @@ font-style: normal;
 text-decoration: none;
 font-weight: 600;
 line-height: normal;
-grid-area: item5;
+grid-area: button;
 border-radius: 4px;
 background: #0278FE;
 display: inline-flex;
@@ -15,25 +15,21 @@ align-items: flex-start;
 gap: 10px;
 justify-content: center;
 width: 315px;
+align-self: self-start;
 }
 
 
 @media (max-width: 768px) {
 .action-button {
-position: relative;
-top: 24px;
 }
 }
 
 @media (max-width: 320px) {
 .action-button {
-position: relative;
 width: 245px;
-height: 17px;
 font-size: 14px;
 padding: 16px 22px 15px 21px;
-left: 16px;
-top: 8px;
+align-self: auto;
 }   
 }
 

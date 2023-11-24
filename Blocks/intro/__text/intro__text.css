@@ -1,7 +1,6 @@
 .intro__text{
 color: #FFF;
 width: 722px;
-height: 136px;
 font-family: Inter;
 font-size: 24px;
 font-style: normal;
@@ -22,7 +21,7 @@ padding-top: 15px;
 @media (max-width: 320px) {
 .intro__text {
 width: 288px;
-height: 300px;
 line-height: 30px;
+padding-top: 9px;
 }   
 }

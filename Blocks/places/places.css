@@ -1,30 +1,22 @@
 .places{
 width: 987px;
-height: 4098px;
-position: relative;
-left: 145px;
-top: 184px;
-margin: 0;
+margin: auto;
 display: flex;
 flex-direction: column;
 align-items: center;
+padding-top: 48px;
+gap: 80px;
 }
 
 @media (max-width: 768px) {
 .places {
 width: 720px;
-height: 3454px;
-left: 24px;
-top: 128px;
 }    
 }
 
 @media (max-width: 320px) {
 .places {
 width: 320px;
-height: 5623px;
-left: 0;
-top: 90px;
 padding-top: 24px;
 }    
 }

@@ -1,25 +1,21 @@
 .place__website{
 width: 456px;
-grid-area: item2;
-height: 45px;
+grid-area: website;
 display: flex;
 flex-direction: column;
-position: relative;
-top: 107px;
+padding-top: 107px;
 }
 
 @media (max-width: 768px) {
 .place__website {
 width: 295px;
-height: 67px;
-top: 0;
+padding: 0;
 }    
 }
 
 @media (max-width: 320px) {
 .place__website {
 width: 288px;
-height: 67px;
 padding: 30px 16px;
 }    
 }
