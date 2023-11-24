@@ -12,13 +12,11 @@ margin: 0;
 
 @media (max-width: 768px) {
 .intro__text-author {
-top: 359px;
 }    
 }
 
 @media (max-width: 320px) {
 .intro__text-author {
 width: 288px;
-top: 482px;
 }  
 }

@@ -1,6 +1,6 @@
 .place__website{
 width: 456px;
-grid-area: item2;
+grid-area: website;
 display: flex;
 flex-direction: column;
 padding-top: 107px;

@@ -6,7 +6,7 @@ font-style: normal;
 text-decoration: none;
 font-weight: 600;
 line-height: normal;
-grid-area: item5;
+grid-area: button;
 border-radius: 4px;
 background: #0278FE;
 display: inline-flex;
@@ -15,6 +15,7 @@ align-items: flex-start;
 gap: 10px;
 justify-content: center;
 width: 315px;
+align-self: self-start;
 }
 
 
@@ -28,6 +29,7 @@ width: 315px;
 width: 245px;
 font-size: 14px;
 padding: 16px 22px 15px 21px;
+align-self: auto;
 }   
 }
 

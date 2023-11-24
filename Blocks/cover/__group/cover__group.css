@@ -7,6 +7,13 @@ z-index: 2;
 align-items: center;
 }
 
+@media (max-width: 768px) {
+.cover__group {
+width: 656px;
+}
+}
+
+
 @media (max-width: 320px) {
 .cover__group {
 width: 288px;

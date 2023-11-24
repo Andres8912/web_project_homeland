@@ -23,10 +23,6 @@
 @import url(./Blocks/places/place/__paragraph/place__paragraph.css);
 @import url(./Blocks/action-button/action-button.css);
 @import url(./Blocks/action-button/action-button:hover.css);
-@import url(./Blocks/places/place-criccieth/place-criccieth.css);
-@import url(./Blocks/places/place-berea/place-berea.css);
-@import url(./Blocks/places/place-mur/place-mur.css);
-@import url(./Blocks/places/place-bog/place-bog.css);
 @import url(./Blocks/cover/cover.css);
 @import url(./Blocks/cover/__background/cover__background.css);
 @import url(./Blocks/cover/__background/cover__background:hover.css);

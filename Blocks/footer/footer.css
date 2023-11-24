@@ -1,7 +1,6 @@
 .footer{
-width: 1280;
+width: 1280px;
 background-color: #2A2C2F;
-font-family: inter;
 margin: 0;
 }
 
@@ -10,3 +9,9 @@ margin: 0;
 width: 768px;
 }
 }
+
+@media (max-width: 320px) {
+    .footer {
+    width: 320px;
+    }
+    }
