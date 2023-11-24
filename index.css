@@ -27,8 +27,8 @@
 @import url(./Blocks/cover/__background/cover__background.css);
 @import url(./Blocks/cover/__background/cover__background:hover.css);
 @import url(./Blocks/cover/__group/cover__group.css);
-@import url(./Blocks/cover/__group/__title/group__title.css);
-@import url(./Blocks/cover/__group/__subtitle/group__subtitle.css);
+@import url(./Blocks/cover/__group/__title/cover__title.css);
+@import url(./Blocks/cover/__group/__subtitle/cover__subtitle.css);
 @import url(./Blocks/cover/__group/-button/group-button.css);
 @import url(./Blocks/cover/__group/-button/group-button:hover.css);
 @import url(./Blocks/footer/footer.css);

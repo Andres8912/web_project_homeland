@@ -1,4 +1,4 @@
-.group__subtitle{
+.cover__subtitle{
 color: #FFF;
 width: 280px;
 text-align: center;
@@ -13,7 +13,7 @@ padding-bottom: 32px;
 
 
 @media (max-width: 320px) {
-.group__subtitle {
+.cover__subtitle {
 width: 280px;
 font-size: 14px;
 line-height: 16px;
