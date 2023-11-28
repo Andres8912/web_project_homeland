@@ -1,4 +1,4 @@
-.place__website{
+.places__place-website{
 width: 456px;
 grid-area: website;
 display: flex;
@@ -7,14 +7,14 @@ padding-top: 107px;
 }
 
 @media (max-width: 768px) {
-.place__website {
+.places__place-website {
 width: 295px;
 padding: 0;
 }    
 }
 
 @media (max-width: 320px) {
-.place__website {
+.places__place-website {
 width: 288px;
 padding: 30px 16px;
 }    

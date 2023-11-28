@@ -1,4 +1,4 @@
-.place__title{
+.places__place-title{
 color: #FFF;
 font-size: 72px;
 font-style: normal;
@@ -8,10 +8,11 @@ width: 529px;
 grid-area: title;
 margin: 0;
 display: flex;
+height: 152px;
 }
 
 @media (max-width: 768px) {
-.place__title {
+.places__place-title {
 width: 340px;
 font-size: 42px;
 line-height: 46px;
@@ -19,7 +20,7 @@ line-height: 46px;
 }
 
 @media (max-width: 320px) {
-.place__title {
+.places__place-title {
 width: 288px;
 font-size: 32px;
 line-height: 35px;

@@ -1,4 +1,4 @@
-.place__paragraphs{
+.places__place-paragraphs{
 grid-area: paragraphs;
 display: flex;
 flex-direction: column;

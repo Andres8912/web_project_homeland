@@ -1,10 +1,4 @@
-@keyframes suave {
-0%{background:#0278FE; color:#FFF;}
-50%{background:#2e7fdc; color:#0278FE;}
-100%{background:#0063D2; color:#2e7fdc;} 
-}
-
-.action-button:hover, #button3:hover, #button4:hover, #button5:hover{
+.action-button:hover{
 background: #0063D2;
-animation: suave 1s linear ease-in-out;
+text-shadow: 0 0 2px rgb(17, 0, 255);
 }

@@ -1,4 +1,4 @@
-.place__url-heading{
+.places__place-url-heading{
 color: #AAA;
 font-size: 12px;
 font-style: normal;
@@ -14,7 +14,7 @@ padding-bottom: 8px;
 
 
 @media (max-width: 320px) {
-.place__url-heading {
+.places__place-url-heading {
 width: 288px;
 }    
 }
