@@ -1,4 +1,4 @@
-.places__place-artist{
+.place__artist{
 color: #FFF;
 width: 456px;
 font-size: 18px;
@@ -10,13 +10,13 @@ text-decoration: none;
 }
 
 @media (max-width: 768px) {
-.places__place-artist {
+.place__artist {
 width: 295px;
 }    
 }
 
 @media (max-width: 320px) {
-.places__place-artist {
+.place__artist {
 width: 288px;
 }    
 }
