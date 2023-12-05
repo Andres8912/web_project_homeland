@@ -1,6 +1,6 @@
+@import url(./Blocks/page/page.css);
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/inter.css);
-@import url(./Blocks/page/page.css);
 @import url(./Blocks/page/__logo/page__logo.css);
 @import url(./Blocks/lead/lead.css);
 @import url(./Blocks/lead/__title/lead__title.css);
